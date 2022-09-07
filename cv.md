@@ -17,7 +17,7 @@ I am 25 years old. I want to be a Front-End Developer so I start to study in RSS
 
 ## Education
 
-- **National Aerospace University «Kharkiv Aviation Institute»** (2016-2021)
+- **National Aerospace University «Kharkiv Aviation Institute»** (2016-2020)
   - _Computer sciences_
 
 ## My skills
