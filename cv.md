@@ -26,11 +26,11 @@ I am 25 years old. I want to be a Front-End Developer because I start to study i
 
 ## My projects
 
-- My website-portfolio: [mykola-best.pp.ua][http://mykola-best.pp.ua/ "link to my website"]
-  ![Alt-Website-portfolio](https://ibb.co/zsdknwc)
+- My website-portfolio: [mykola-best.pp.ua][http://mykola-best.pp.ua/]
+  ![Alt-Website-portfolio](https://i.ibb.co/tzBc78Y/Website-Portfolio.jpg)
 
-* Website about a movie: ["The Witcher"][https://mykoladarnichenko.github.io/the_witcher/ "website about "the witcher""]
-  ![Alt-The Wither](https://ibb.co/RzMfBmb)
+* Website about a movie: ["The Witcher"][https://mykoladarnichenko.github.io/the_witcher/]
+  ![Alt-The Wither](https://i.ibb.co/ChXgMZ8/The-Witcher.jpg)
 
 ## Code Examples
 
