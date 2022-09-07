@@ -23,7 +23,7 @@ I am 25 years old. I want to be a Front-End Developer because I start to study i
 ## My skills
 
 - Basic HTML/CSS
-- Experience work with Git/GitHub
+- Work experience with Git/GitHub
 - Beginner knowledge of JavaScript
 
 ## My projects
