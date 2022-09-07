@@ -13,7 +13,7 @@
 
 ## About me
 
-I am 25 years old. I want to be a Front-End Developer because I start to study in RSSchool. I believe that I will succeed.
+I am 25 years old. I want to be a Front-End Developer so I start to study in RSSchool. I believe that I will succeed.
 
 ## Education
 
