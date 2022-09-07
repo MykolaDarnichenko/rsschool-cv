@@ -2,11 +2,11 @@
 
 ## Trainee Front-End Developer
 
-===
+---
 
 ### Contact Information
 
-===
+---
 
 - **Address:** Ukraine, Sumy
 - **Phone:** +380997866849
@@ -15,20 +15,20 @@
 
 ### About me:
 
-===
+---
 
 I am 25 years old. I want to be a Front-End Developer because I start to study in RSSchool. I believe that I will succeed.
 
 ### Education
 
-===
+---
 
 - **National Aerospace University «Kharkiv Aviation Institute» (2016-2021)**
   - _Computer sciences_
 
 ### My skills
 
-===
+---
 
 - Basic HTML/CSS
 - Experience work with Git/GitHub
@@ -36,16 +36,16 @@ I am 25 years old. I want to be a Front-End Developer because I start to study i
 
 ### My projects
 
-===
+---
 
 ### Code Example
 
-===
+---
 
 ### Languages
 
-===
+---
 
-- English - A1 (Beginner)
-- Russian - Native Speaker
-- Ukrainian - Native Speaker
+- **English** - A1 (Beginner)
+- **Russian** - Native Speaker
+- **Ukrainian** - Native Speaker
