@@ -1,6 +1,6 @@
 # Darnichenko Mykola
 
-![Alt-My photo](https://i.ibb.co/fncsR9R/my-photo.jpg)
+![Alt-My photo](https://i.ibb.co/y0XxL3k/my-photo.jpg)
 
 ## Trainee Front-End Developer
 
