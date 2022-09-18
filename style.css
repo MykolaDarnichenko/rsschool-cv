@@ -142,7 +142,6 @@ section {
 #code pre {
   background-color: rgba(0, 255, 255, 0.7);
   border-radius: 20px;
-  margin: 10px 140px 10px 0;
 }
 
 #languages {
@@ -172,6 +171,70 @@ footer img {
   top: 5px;
   margin-left: 10%;
   width: 100px;
+}
+
+@media screen and (max-width: 900px) {
+* {
+  clear: none;
+}
+
+header {
+  padding: 10px 0;
+  height: auto;
+}
+
+#header-menu {
+  position: static;
+  text-align: center;
+}
+
+#header-menu li {
+  display: block;
+}
+
+main {
+  width: 85%;
+}
+
+#image-logo {
+  float: none;
+  margin: auto;
+  padding: 0;
+}
+
+#main-text {
+  position: static;
+  width: 100%;
+  text-align: center;
+}
+#main-text h1 {
+  border: none;
+  margin-bottom: 5px;
+}
+
+#contacts {
+  position: relative;
+  padding: 20px 0;
+}
+
+#summary, #education, #skills, #projects, #code, #languages {
+  text-align: left;
+  width: 100%;
+  margin-left: 0;
+}
+
+footer {
+  padding: 10px 10px 50px 10px;
+}
+
+footer ul {
+  margin: 0;
+  float: left;
+}
+
+footer img {
+  float: right;
+}
 }
 
 
