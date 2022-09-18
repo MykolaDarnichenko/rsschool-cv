@@ -10,6 +10,109 @@
   <title>CV (Nickolay Darnichenko)</title>
 </head>
 <body>
-  
+  <header>
+    <nav id="header-menu">
+      <ul>
+        <li><a href="#contacts">Contacts</a></li>
+        <li><a href="#summary">Summary</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#code">Code</a></li>
+        <li><a href="#languages">Languages</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <img src="assets/img/my-photo.jpeg" alt="my-photo">
+      <h1>Nickolay Darnichenko</h1>
+      <p>Trainee Front-End Developer</p>
+    </section>
+    <section>
+      <h2 id="contacts">Contact Information</h2>
+      <ul>
+        <li><span class="bold-text">Address:</span> Ukraine, Sumy</li>
+        <li><span class="bold-text">Phone:</span> +380997866849</li>
+        <li><span class="bold-text">E-mail:</span><a href="mailto:programmboy@gmail.com"> programmboy@gmail.com</a></li>
+        <li><span class="bold-text">Telegram:</span> @mykola_best</li>
+      </ul>
+    </section>
+    <section>
+      <h2 id="summary">About me</h2>
+      <p>I am 25 years old. I want to be a Front-End Developer so I start to study in RSSchool. I believe that I will succeed.</p>
+    </section>
+    <section>
+      <h2 id="education">Education</h2>
+      <ul>
+        <li>
+          <span class="bold-text">National Aerospace University «Kharkiv Aviation Institute»</span> (2016-2020)
+          <ul>
+            <li>Computer sciences</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2 id="skills">My skills</h2>
+      <ul>
+        <li>Basic HTML/CSS</li>
+        <li>Work experience with Git/GitHub</li>
+        <li>Beginner knowledge of JavaScript</li>
+      </ul>
+    </section>
+    <section>
+      <h2 id="projects">My projects</h2>
+        <p><span class="bold-text">My website-portfolio: </span><a href="http://mykola-best.pp.ua">mykola-best.pp.ua</a></p>
+        <img src="#" alt="My website">
+        <p><span class="bold-text">Website about a movie: </span><a href="https://mykoladarnichenko.github.io/the_witcher/">"The Witcher"</a></p>
+        <img src="#" alt="The Witcher">
+    </section>
+    <section>
+      <h2 id="code">Code Examples</h2>
+      <p><span class="bold-text">Remove First and Last Character:</span></p>
+      <code>
+        <pre>
+  function removeChar(str){
+  //You got this!
+  return str.slice(1, str.length-1);
+  };
+        </pre>
+      </code>
+      <p><span class="bold-text">Convert boolean values to strings 'Yes' or 'No':</span></p>
+      <code>  
+        <pre>
+  function boolToWord( bool ){
+  return bool = bool === true ? "Yes" : "No";
+  }
+        </pre>
+      </code>
+      <p><span class="bold-text">Multiply:</span></p>
+      <code>
+        <pre>
+  function multiply(a, b){
+  return a * b;
+  }
+        </pre>
+      </code>
+    </section>
+    <section>
+      <h2 id="languages">Languages</h2>
+        <ul>
+          <li><span class="bold-text">English</span> &ndash; A1 (Beginner)</li>
+          <li><span class="bold-text">Russian</span> &ndash; Native Speaker</li>
+          <li><span class="bold-text">Ukrainian</span> &ndash; Native Speaker</li>
+        </ul>
+    </section>
+  </main>
+
+  <footer>
+    <ul id="footer-author">
+      <li>&copy; 2022</li>
+      <li>My github: <a href="https://github.com/MykolaDarnichenko">Mykola Darnichenko</a></li>
+    </ul>
+    <a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" alt="logo"></a>
+  </footer>
 </body>
 </html>
