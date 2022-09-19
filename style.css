@@ -70,9 +70,8 @@ section {
 }
 
 #image-logo {
-  height: 200px;
   width: 200px;
-  border-radius: 75%;
+  border-radius: 37%;
   display: block;
   float: left;
   margin-left: 10%;
@@ -177,7 +176,7 @@ footer img {
   width: 100px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 950px) {
 * {
   clear: none;
 }
@@ -190,10 +189,13 @@ header {
 #header-menu {
   position: static;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 #header-menu li {
   display: block;
+  padding: 0;
 }
 
 main {
@@ -249,7 +251,6 @@ footer img {
 
   #image-logo {
     width: 150px;
-    height: 150px;
     margin-top: -20px;
     margin-bottom: 10px;
   }
