@@ -139,6 +139,10 @@ section {
   width: 48%;
 }
 
+#code p {
+  padding: 10px 0;
+}
+
 #code pre {
   background-color: rgba(0, 255, 255, 0.7);
   border-radius: 20px;
@@ -220,7 +224,8 @@ main {
 #summary, #education, #skills, #projects, #code, #languages {
   text-align: left;
   width: 100%;
-  margin-left: 0;
+  margin: 0;
+  padding: 20px 0;
 }
 
 footer {
@@ -235,6 +240,48 @@ footer ul {
 footer img {
   float: right;
 }
+}
+
+@media screen and (max-width: 420px) {
+  main {
+    width: 95%;
+  }
+
+  #image-logo {
+    width: 150px;
+    height: 150px;
+    margin-top: -20px;
+    margin-bottom: 10px;
+  }
+
+  p, h1, h2, li, a{
+    font-size: 0.8rem;
+  }
+
+  pre {
+    font-size: 0.5rem;
+  }
+  
+  footer {
+    text-align: center;
+    height: auto;
+    padding: 10px;
+  }
+
+  footer ul {
+    float: none;
+    padding: 0;
+  }
+
+  footer img {
+    float: none;
+    width: 75px;
+    margin: 0;
+  }
+
+  footer ul li {
+    font-size: 0.8rem;
+  }
 }
 
 
