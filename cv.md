@@ -63,3 +63,9 @@ function multiply(a, b){
   return a * b;
 }
 ```
+
+## Languages
+
+- **English** - A1 (Beginner)
+- **Ukrainian** - Native Speaker
+- **Russian** - Native Speaker
