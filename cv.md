@@ -26,3 +26,13 @@ I am 26 years old. I want to be a Front-End Developer so I started to study in R
 - Basic HTML/CSS
 - Work experience with Git/GitHub
 - Beginner knowledge of JavaScript
+
+## My projects
+
+### My website-portfolio: [mykola-best.pp.ua](http://mykola-best.pp.ua/ "My website-portfolio")
+
+![Alt-Website-portfolio](https://i.ibb.co/tzBc78Y/Website-Portfolio.jpg)
+
+### Website about a movie: ["The Witcher"](https://mykoladarnichenko.github.io/the_witcher/ "Website about 'The Witcher'")
+
+![Alt-The Wither](https://i.ibb.co/ChXgMZ8/The-Witcher.jpg)
