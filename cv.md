@@ -11,3 +11,7 @@
 - **E-mail:** programmboy@gmail.com
 - **Telegram:** @mykola_best
 - **Discord:** Mykola (@MykolaDarnichenko)
+
+## About me
+
+I am 26 years old. I want to be a Front-End Developer so I started to study in RSSchool. I believe that I will succeed.
