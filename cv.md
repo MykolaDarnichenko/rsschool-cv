@@ -36,3 +36,30 @@ I am 26 years old. I want to be a Front-End Developer so I started to study in R
 ### Website about a movie: ["The Witcher"](https://mykoladarnichenko.github.io/the_witcher/ "Website about 'The Witcher'")
 
 ![Alt-The Wither](https://i.ibb.co/ChXgMZ8/The-Witcher.jpg)
+
+## Code Examples
+
+- Remove First and Last Character
+
+```
+function removeChar(str){
+//You got this!
+return str.slice(1, str.length-1);
+};
+```
+
+- Convert boolean values to strings 'Yes' or 'No'
+
+```
+function boolToWord( bool ){
+  return bool = bool === true ? "Yes" : "No";
+}
+```
+
+- Multiply
+
+```
+function multiply(a, b){
+  return a * b;
+}
+```
