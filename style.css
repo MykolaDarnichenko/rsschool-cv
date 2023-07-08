@@ -84,10 +84,6 @@ section#contacts a {
   color: rgb(18, 18, 136);
 }
 
-section#contacts a:hover {
-  color: white;
-}
-
 section#about-me {
   text-align: center;
 }
@@ -143,4 +139,17 @@ section#projects p {
 section#projects img {
   width: 800px;
 }
+
+section#projects a {
+  text-decoration: none;
+  color: rgb(18, 18, 136);
+}
+
+section#code-examples {
+  text-align: center;
+}
+
+
+
+
 
