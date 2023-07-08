@@ -79,6 +79,15 @@ section#contacts ul {
   list-style-type: none;
 }
 
+section#contacts a {
+  text-decoration: none;
+  color: rgb(18, 18, 136);
+}
+
+section#contacts a:hover {
+  color: white;
+}
+
 section#about-me {
   text-align: center;
 }
