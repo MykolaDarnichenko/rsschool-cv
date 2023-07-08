@@ -11,15 +11,112 @@
   <header>
     <nav>
       <ul>
-        <li><a href="#">Contacts</a></li>
-        <li><a href="#">About me</a></li>
-        <li><a href="#">Education</a></li>
-        <li><a href="#">Skills</a></li>
-        <li><a href="#">Projects</a></li>
-        <li><a href="#">Code examples</a></li>
-        <li><a href="#">Languages</a></li>
+        <li><a href="#contacts">Contacts</a></li>
+        <li><a href="#about-me">About me</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#code-examples">Code examples</a></li>
+        <li><a href="#languages">Languages</a></li>
       </ul>
     </nav>
   </header>
+
+  <main>
+    <section>
+      <h1>Mykola Darnichenko</h1>
+      <img src="images/cv-photo.jpeg" alt="my photo">
+      <p id="important-text">Trainee Front-End Developer</p>
+    </section>
+
+    <section id="contacts">
+      <h2>Contact Information</h2>
+      <ul>
+        <li><span class="bold-text">Address:</span> Ukraine, Sumy</li>
+        <li><span class="bold-text">Phone:</span> <a href="tel:+380962543331">+380662543331</a></li>
+        <li><span class="bold-text">E-mail:</span> <a href="mailto:programmboy@gmail.com">programmboy@gmail.com</a></li>
+        <li><span class="bold-text">Telegram:</span> <a href="https://t.me/mykola_best">@mykola_best</a></li>
+        <li><span class="bold-text">Discord:</span> Mykola (@MykolaDarnichenko)</li>
+      </ul>
+    </section>
+
+    <section id="about-me">
+      <h2>About me</h2>
+      <p>I am 26 years old. I want to be a Front-End Developer so I started to study in RSSchool. I believe that I will succeed.</p>
+    </section>
+
+    <section id="education">
+      <h2>Education</h2>
+      <ul>
+        <li>
+          National Aerospace University «Kharkiv Aviation Institute» (2016-2020)
+          <ul>
+            <li>Computer sciences</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+
+    <section id="skills">
+      <h2>My skills</h2>
+      <ul>
+        <li>Basic HTML/CSS</li>
+        <li>Work experience with Git/GitHub</li>
+        <li>Beginner knowledge of JavaScript</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>My projects</h2>
+      <ol>
+        <li><span class="bold-text">My website-portfolio:</span> <a href="mykola-best.pp.ua">mykola-best.pp.ua</a></li>
+        <img class="project-image" width="800px" src="https://camo.githubusercontent.com/8369ca6939b3db1d58fd4b2b3d514f59735160d9332714f3debb59318237227a/68747470733a2f2f692e6962622e636f2f747a42633738592f576562736974652d506f7274666f6c696f2e6a7067" alt="my website">
+        <li><span class="bold-text">Movie website:</span> <a href="https://mykoladarnichenko.github.io/the_witcher/">"The Witcher"</a></li>
+        <img class="project-image" width="800px" src="https://camo.githubusercontent.com/b9dd187fb47fd6c3f9fcef1bf8c56f0ce83eb9893b7fa3bca0d2e090031623d3/68747470733a2f2f692e6962622e636f2f436858674d5a382f5468652d576974636865722e6a7067" alt="Whe Witcher">
+      </ol>
+    </section>
+
+    <section id="code-examples">
+      <h2>Code Examples</h2>
+      <ol>
+        <li>Remove First and Last Character
+          <pre>
+            <code>
+    function removeChar(str){
+    //You got this!
+    return str.slice(1, str.length-1);
+    };
+            </code>
+          </pre>
+        </li>
+        <li>Convert boolean values to strings 'Yes' or 'No'
+          <pre>
+            <code>
+    function boolToWord(bool){
+    return bool = bool === true ? "Yes" : "No";
+    }
+            </code>
+          </pre>
+        </li>
+        <li>Multiply
+          <pre>
+            <code>
+    function multiply(a, b){
+    return a * b;
+    }
+            </code>
+          </pre>
+        </li>
+      </ol>
+    </section>
+
+    <section id="languages">
+      <ul>
+        <li><span class="bold-text">English </span>&ndash; A1 (Beginner)</li>
+        <li><span class="bold-text">Ukrainian </span>&ndash; Native Speaker</li>
+        <li><span class="bold-text">Russian </span>&ndash; Native Speaker</li>
+      </ul>  
+    </section>
+  </main>
 </body>
 </html>
