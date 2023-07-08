@@ -163,6 +163,14 @@ section#code-examples > pre {
   padding: 0 30%;
 } 
 
+section#languages {
+  text-align: center;
+}
+
+section#languages ul {
+  list-style-type: none;
+}
+
 
 
 
