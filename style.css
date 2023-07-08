@@ -147,7 +147,7 @@ section#projects a {
 
 section#code-examples {
   text-align: center;
-  width: 60%;
+  width: 80%;
   margin: auto;
 }
 
@@ -159,8 +159,8 @@ section#code-examples > pre {
   background-color: rgba(69, 136, 217, 0.5);
   border-radius: 10px;
   text-align: left;
-  font-size: 18px;
-  padding: 0 30%;
+  font-size: 14px;
+  padding: 0 auto;
 } 
 
 section#languages {
@@ -170,6 +170,33 @@ section#languages {
 section#languages ul {
   list-style-type: none;
 }
+
+footer {
+  background-color: rgb(18, 18, 136);
+  border-radius: 10px 10px 0 0;
+  padding: 20px;
+}
+
+footer ul {
+  color: #ffffff;
+  list-style-type: none;
+  display: flex;
+  align-items:center;
+  justify-content:space-around;
+  flex-direction: row;
+}
+
+footer ul a {
+  text-decoration: none;  
+  color: #ffffff;
+}
+
+footer img#rsschool-logo {
+  width: 100px;
+}
+
+
+
 
 
 
