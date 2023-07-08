@@ -1,0 +1,31 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  width: 90%;
+  margin: auto;
+}
+
+header {
+  padding: 5px;
+  background-color:rgb(18, 18, 136);
+}
+
+header > nav > ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+header > nav > ul > li {
+  display: inline;
+}
+
+header > nav > ul > li > a {
+  padding: 10px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+header > nav > ul> li > a:hover {
+  padding: 10px;
+  background-color: rgb(69, 136, 217);
+}
