@@ -147,7 +147,21 @@ section#projects a {
 
 section#code-examples {
   text-align: center;
+  width: 60%;
+  margin: auto;
 }
+
+section#code-examples p {
+  padding: 10px 0;
+}
+
+section#code-examples > pre {
+  background-color: rgba(69, 136, 217, 0.5);
+  border-radius: 10px;
+  text-align: left;
+  font-size: 18px;
+  padding: 0 30%;
+} 
 
 
 
