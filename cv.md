@@ -1,6 +1,6 @@
 # Darnichenko Mykola
 
-![Alt-My photo](img/my-photo.jpeg)
+![Alt-My photo](images/cv-photo.jpeg)
 
 ## Trainee Front-End Developer
 
