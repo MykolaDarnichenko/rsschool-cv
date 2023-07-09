@@ -137,7 +137,8 @@ section#projects p {
 }
 
 section#projects img {
-  width: 800px;
+  width: 90%;
+  max-width: 800px;
 }
 
 section#projects a {
